@@ -2,21 +2,22 @@ Please answer the following questions:
 
 
 1. Who are you? :) (What is your full name?)
-
+Eboni Jackson
 
 2. What is your GitHub username?
-
+ebojay
 
 3. Where are you from (your hometown)?
-
+Atlanta, Georgia
 
 4. What is your favorite local restaurant?
-
+Quinto La Huella
 
 5. What is the last good book you read (title, author)?
-
+What I Was Doing While You Were Breeding by Kristen Newman
 
 6. Which song is in heavy rotation on your MP3 player/iPod/iPhone/stream?
-
+I Wonder by Kanye West
 
 7. If you were to build a web site for fun, what would it be about?
+Netflix Guides (like Spotify playlist but for movies and shows)
